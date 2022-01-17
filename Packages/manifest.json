@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.burst": "0.2.4-preview.32",
+    "com.unity.burst": "0.2.4-preview.33",
     "com.unity.collections": "0.0.9-preview.8",
     "com.unity.entities": "0.0.12-preview.17",
     "com.unity.jobs": "0.0.7-preview.4",
@@ -36,11 +36,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "testables": [
-    "com.unity.collections",
-    "com.unity.entities",
-    "com.unity.jobs"
-  ],
-  "registry": "https://staging-packages.unity.com"
+  }
 }
